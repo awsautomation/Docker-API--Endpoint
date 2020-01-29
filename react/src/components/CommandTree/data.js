@@ -3,7 +3,7 @@
  */
 
 export default {
-    name: 'Queries',
+    name: 'Docker Enterprise',
     toggled: true,
     children: [
         {
@@ -652,7 +652,7 @@ export default {
         {
             name: 'Distribution',
             children: [
-                {name: 'Get image information from the registry', example: "GET distribution/ozlerhakan/rapid/json"}
+                {name: 'Get image information from the registry', example: "GET distribution/techfarhan/rapid/json"}
             ]
         },
     ]
