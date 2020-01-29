@@ -21,7 +21,7 @@ class Header extends React.Component {
         return <Navbar>
             <Navbar.Header>
                 <Navbar.Brand>
-                    Rapid Dashboard
+                    Docker EndPoint
                 </Navbar.Brand>
             </Navbar.Header>
             <Nav>
